@@ -20,7 +20,7 @@ To forecast future precipitation levels in Hawaii by training a time series mode
   - Structure data into sequences for RNN input
 
 - **Model Architecture**:
-  - A basic RNN model implemented using Keras or PyTorch
+  - A basic RNN model implemented using PyTorch
   - Input: sequences of past precipitation values
   - Output: predicted precipitation for the next time step(s)
 
